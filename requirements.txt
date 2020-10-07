@@ -1,0 +1,16 @@
+time
+discord
+requests
+asyncio
+numpy
+traceback
+gc
+psutil
+giphy_client
+dbl
+pymongo
+better_profanity
+threading
+io
+PIL
+giphy_client.rest
