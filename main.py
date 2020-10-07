@@ -664,14 +664,14 @@ def currencyRead(bot, key, subkey):
             return doc[0][str(subkey)]
 
 def currencyWrite(bot, key, subkey, value):
+    doc = list(db["currency"].find({"_id" : str(key)}).hint("_id_").limit(1))
     if bot == False:
-        if len(list(db["currency"].find({"_id" : str(key)}).hint("_id_").limit(1))) == 0:
+        if len(doc) == 0:
             db["currency"].insert_one({"_id": str(key), "balance": 50.0, "bowls": [{"id": 0, "inside": None, "attractsleft": 0}], "parrots": [],"inventory": [], "lastdaily": 0, "xp": 0, "level": 0, "notifs": [], "ach": [], "reactiongames": 0, "swears": 0})
         else:
-            doc = list(db["currency"].find({"_id" : str(key)}).hint("_id_").limit(1))[0]
-            if not "swears" in doc.keys():
-                doc["swears"] = 0
-                db["currency"].update_one({"_id": str(key)}, {"$set": doc})
+            if not "swears" in doc[0].keys():
+                doc[0]["swears"] = 0
+                db["currency"].update_one({"_id": str(key)}, {"$set": doc[0]})
     #request = {"request": "r", "new": None}
     #code = len(currencyQueue)
     #currencyQueue.append(request)
@@ -680,13 +680,11 @@ def currencyWrite(bot, key, subkey, value):
     #d = currencyQueue[code]
     #if len(list(db["currency"].find({"_id" : str(key)}))) == 0:
     #    db["currency"].insert_one({"_id": str(key)})
-
-    d = list(db["currency"].find({"_id" : str(key)}).hint("_id_").limit(1))[0]
     
     if str(subkey) == "parrots":
         value = sorted(value, key=lambda k: k["name"])
-    d[str(subkey)] = value
-    db["currency"].update_one({"_id" : str(key)}, {"$set": d})
+    doc[0][str(subkey)] = value
+    db["currency"].update_one({"_id" : str(key)}, {"$set": doc[0]})
     #currencyQueue.append({"request": "w", "new": d})
 
 #async def currencyDriver():
