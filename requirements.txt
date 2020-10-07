@@ -8,3 +8,4 @@ dblpy
 pymongo
 better_profanity
 flask
+dnspython
