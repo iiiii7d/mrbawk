@@ -7,6 +7,5 @@ giphy_client
 dblpy
 pymongo
 better_profanity
-io
 PIL
 giphy_client.rest
