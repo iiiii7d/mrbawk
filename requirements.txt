@@ -2,7 +2,6 @@ discord
 requests
 asyncio
 numpy
-gc
 psutil
 giphy_client
 dbl
