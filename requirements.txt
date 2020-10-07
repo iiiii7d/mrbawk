@@ -4,7 +4,7 @@ asyncio
 numpy
 psutil
 giphy_client
-dbl
+dblpy
 pymongo
 better_profanity
 io
