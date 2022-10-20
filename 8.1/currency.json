@@ -1,0 +1,430 @@
+{
+    "644052617500164097": {
+        "balance": 737.8,
+        "bowl": null,
+        "parrots": [
+            {
+                "name": "Parrot #0",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #1",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #2",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #3",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #4",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #5",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #6",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #7",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #8",
+                "breed": "cockatiel"
+            }
+        ],
+        "lastdaily": 158738067267,
+        "attractsleft": 0,
+        "inventory": [
+            {
+                "name": "birdseed",
+                "qty": 1
+            }
+        ]
+    },
+    "695070338865823835": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "480200673519206411": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "628847128093130754": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "509309446812336129": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "342617518852145152": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "289609370218528768": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "204538579437879297": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "630216284914581526": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "584986330212335626": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "479172466661654528": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "275830234262142978": {
+        "balance": 100.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 1587273232399,
+        "attractsleft": 0
+    },
+    "678555907453485066": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "629856627117522954": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "295464665419350024": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "589119819677433861": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "338483591375749130": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "326506528272023553": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "138061787693187072": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "535512352838385674": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "620229764996923402": {
+        "balance": 74.0,
+        "bowl": null,
+        "parrots": [
+            {
+                "name": "Parrot #0",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #1",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #2",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #3",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #4",
+                "breed": "cockatiel"
+            }
+        ],
+        "inventory": [],
+        "lastdaily": 1587426203124,
+        "attractsleft": 0
+    },
+    "354949563691302925": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "683338179293741093": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "263769898168090624": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "354522867624574977": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "429205917515513857": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "630340380105244684": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "239190035491061762": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "618471095728603179": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "664663876377378826": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "206137795734011904": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "519391421334159384": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "292718510227062784": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "540525328263806996": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "695129974088138798": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "651470778155532289": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "562579414173483075": {
+        "balance": 613.0,
+        "bowl": null,
+        "parrots": [
+            {
+                "name": "Parrot #0",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #1",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #2",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #3",
+                "breed": "cockatiel"
+            },
+            {
+                "name": "Parrot #4",
+                "breed": "cockatiel"
+            }
+        ],
+        "inventory": [],
+        "lastdaily": 1587379644222,
+        "attractsleft": 0
+    },
+    "591118230945529866": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "628939077038637057": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "512968583437877279": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "218543981355728906": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "473704228897030154": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    },
+    "408604951552589824": {
+        "balance": 50.0,
+        "bowl": null,
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0
+    }
+}

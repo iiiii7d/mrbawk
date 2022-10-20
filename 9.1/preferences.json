@@ -1,0 +1,400 @@
+{
+    "661200550200868874": {
+        "deletelog": "parrot-log",
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": "announcements",
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "674430349266386944": {
+        "deletelog": "parrot-mutedmsgs",
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": "general",
+        "dsmba": false
+    },
+    "677954661545803808": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": "bot_hangout",
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "650254280317468683": {
+        "deletelog": "admins",
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": "announcements",
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "589954422134669325": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "289611133302865930": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "695112012346163232": {
+        "deletelog": "parrot-mutedmsgs",
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": "announcements",
+        "dsmba": true,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk ",
+            "midget"
+        ],
+        "currencychannels": [
+            "other-bot-commands"
+        ]
+    },
+    "695114842947715122": {
+        "deletelog": "server_logs",
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": "bot-commands",
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ]
+    },
+    "695593600033226864": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "333949691962195969": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "264445053596991498": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "697396383845580901": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "652179432056029198": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "686556140800442404": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "703097837277151314": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "599612204333137949": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "703158699501289512": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "699120488902950963": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "703233767090683935": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "677925657589841920": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "702867288461672479": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "696040081416257547": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "703255621851676754": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "405829222486245376": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "636628329298133032": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "188270094978252800": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    },
+    "550715996546138131": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "annchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ],
+        "currencychannels": []
+    }
+}

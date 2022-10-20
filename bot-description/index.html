@@ -1,0 +1,135 @@
+<h2>Introduction</h2>
+<b> Your guild is mundane. </b> The channels are quieter than usual. All you need is <b> a pet. </b><br>
+This is what Mr Bawk is for: to provide entertainment like how a parrot would, with being able to repeat someone, detect someone for swearing, or to talk over someone (in chat), plus a currency system, a quoting function, being able to mess up images, a reaction game, and more! <br>
+Founded on 24 March by i____7d#5755, this parrot aims to provide fun for all.
+
+<h2>Changelog</h2>
+<h3>Latest version: v1.11 (2/10/20)</h3>
+<ul>
+<li>`parrot c bowls` now shows your bowls in pages... for those who have too many of them</li>
+<li>Item prices & achievements now follow an exponential rate depending on no. of parrots & levels respectively, preventing inflation</li>
+<li>Swearing counter! Note that swears will be detected only if swearing detection is on.</li>
+</ul>
+
+<h2>Initialisation Guide</h2>
+When you first invite Mr Bawk into the server, a new role is automatically created called "Parrot Master". Give this role to yourself and some others so that they can use the master commands of Mr Bawk.<br>
+You are also recommended to look at the server preferences (parrot s), when you are a Parrot Master. You are highly recommended to set a specific channel for announcements (in annchannel) as that is where updates for version updating or other messages from me will be posted to. Feel free to look at the other options.
+
+<h2> Command list </h2>
+All my commands start with 'parrot'. Note for parameters: <> means mandatory, [] means optional.<br>
+
+<h3>General commands (parrot help)</h3>
+<h4>All commands here start with 'parrot'.</h4>
+<ul>
+<li><b>help [master]:</b> The help page. Append [master] for Parrot Master commands.</li>
+<li><b>info:</b> View bot info.</li>
+<li><b>list [repeat/detectswear/mute]:</b> See who is repeated/detected for swearing/muted. Append nothing for a list of everything.</li>
+<li><b>sc/swearcount [nick]</b> View your or others' swear count</li>
+<li><b>ping:</b> Connection test.</li>
+<li><b>uptime:</b> View uptime.</li>
+<li><b>cl/changelog:</b> View the new additions in this update, and what to look forward in the next update.</li>
+<li><b>inviteme:</b> Invite me to your server!</li>
+<li><b>myserver:</b> Get the invite link for my support server</li>
+<li><b>vote:</b> Vote for me!</li>
+<li><b>q:</b> Quote someone, or view someone else's quotes. Type 'parrot q' for more info.</li>
+<li><b>c:</b> The currency system. Type 'parrot c' for more info.</li>
+<li><b>r:</b>The reaction test game. Type 'parrot r' for more info.</li>
+<li><b>messup [url]:</b> Scramble images! You either give the URL, or an image attachment.</li>
+<li><b>ach/achievements:</b> View your achievements.</li>
+<li><b>gif:</b> View parrot gifs &lt;3</li>
+</ul>
+
+<h3>Master commands (parrot help master)</h3>
+<h4>All commands here start with 'parrot'.</h4>
+<ul>
+<li><b>s:</b> Parrot settings and preferences. Type 'parrot s' for more info.</li>
+<li><b>re/repeat &lt;nickname&gt;:</b>Repeats whatever someone says.</li>
+<li>sre/stoprepeat &lt;nickname&gt; Stops repeating someone. Put '*' in the &lt;nickname&gt; slot to stop repeating everyone.</li>
+<li><b>ds/detectswear &lt;nickname&gt;:</b> Detects swearing, and sounds a text alarm when someone does.</li>
+<li><b>sds/stopdetectswear &lt;nickname&gt;:</b> Stops detecting someone for swearing. Put '*' in the &lt;nickname&gt; slot to stop detecting everyone.</li>
+<li><b>mute &lt;nickname&gt;:</b> Talks over what someone says in chat.</li>
+<li><b>unmute &lt;nickname&gt;:</b> Stops talking over someone. Put '*' in the &lt;nickname&gt; slot to unmute everyone.</li>
+</ul>
+
+<h3>Preferences commands (parrot s)</h3>
+<h4> All commands here start with 'parrot s'.</h4>
+<ul>
+<li><b>v [preference]:</b> Views all preference values, or a specific one.</li>
+<li><b>deletelog &lt;channel&gt;:</b> Sets the channel where deleted messages from muting are sent to. [Default: None]</li>
+<ul><li><b>deletelogreset:</b> Resets the channel for deletelogging to no channel.</li></ul>
+<li><b>swearalarm &lt;message&gt;:</b> Sets the swear alarm, if you think the default is too spammy. Use "{author}" to put in the swearer's nickname. [Default: (Too long)]</li>
+<ul><li><b>swearalarmreset:</b> Resets the swear alarm.</li></ul>
+<li><b>annchannel &lt;channel&gt;:</b> (short for announcements channel) Sets the channel where announcements about new versions will be made. [Default: None]</li>
+<ul><li><b>annchannelreset:</b> Resets the channel for version announcing to no channel.</li></ul>
+<li><b>dsmba &lt;true/false&gt;:</b> (short for deleteswearmsgbeforealarm) When someone swears while they are being detected, choose whether to delete the message with the swear word inside of it or not before sounding the alarm. Note that deleted messages will go to deletelog. [Default: False]</li>
+<li><b>addswearwords...:</b> Edits the list of additional swear words to detect. [Default: (Too long)]</li>
+<ul>
+    <li><b>...add:&lt;word&gt;; :</b> Adds a word or phrase to the list.</li>
+    <li><b>...remove:&lt;word&gt;; :</b> Removes a word or phrase from the list.</li>
+    <li><b>...reset:</b> Resets the list to its default.</li>
+    <li>Always remember to put the colon and semicolon in 'add' and 'remove'. This prevents loss of spacebars.</li>
+    <li>If you want to detect for a swear word in any word, don't put spaces. Put a space after the colon for a prefix swear; and before the semicolon for a suffix swear. Put both spaces for an exact swear word.</li>
+</ul>
+<li><b>currencychannels...:</b> Edits the list of channels where 'parrot c' can be used. [Default: None (Every channel)]</li>
+<ul>
+    <li><b>...add:&lt;channel&gt;:</b> Adds a channel to the list.</li>
+    <li><b>...remove:&lt;channel&gt;:</b> Removes a channel from the list.</li>
+    <li><b>...reset:</b> Resets the list to its default.</li>
+</ul>
+</ul>
+
+<h3>Quoting commands (parrot q)</h3>
+<h4>All commands here start with 'parrot q'.</h4>
+<ul>
+<li><b>add &lt;message ID&gt;:</b> Adds a quote to the database. Type 'parrot q add' by itself for instructions on how to add a quote.</li>
+<li><b>view &lt;person&gt; [index]:</b>View someone's quotes.
+<ul>
+    <li>Put 'anyone' in the &lt;person&gt; slot to pick a random person.
+    <li>Put 'any' in the [index] slot to pick a random quote from a person.
+    <li>Leave [index] empty to get all quotes from someone.
+    <li>Do 'anyone any' for a random quote from a random person.
+    <li>Note that you have to give the full name (e.g. Foobar#1234) for the &lt;person&gt; slot.
+</ul>
+<li><b>remove &lt;quote ID&gt; [-o]:</b> Removes a quote. Note that you can only remove your own quote.</li>
+<ul><li>Append '-o' to mark it as offensive, which means that the quote can never be quoted again.</li></ul>
+</ul>
+
+<h3>Currency commands (parrot c)</h3>
+<h4>All commands here start with 'parrot c'.</h4>
+<ul>
+<li><b>shop [page]:</b> Shop for items, especially foods.</li>
+<li><b>buy &lt;qty&gt; &lt;item&gt;:</b> Buy items from the shop.</li>
+<li><b>pf/placefood &lt;item&gt; [-a]:</b> Put food into the bowl. Append -a to fill as much empty bowls as there are.</li>
+<li><b>inv/inventory:</b> View your inventory.</li>
+<li><b>bowls [page]:</b> View what's inside your bowl.</li>
+<li><b>parrots [page]:</b> View your parrots.</li>
+<li><b>bal/balance:</b> View your balance.</li>
+<li><b>daily:</b> Claim your daily twigs.</li>
+<li><b>enc [breed]:</b> View the encyclopaedia of parrots.</li>
+<li><b>top [twigs/parrots/xp]:</b> Views the top 15 players on this server, based on amount of twigs, parrots, or xp. Append nothing to rank players based on all three factors combined.</li>
+<li><b>rename &lt;index&gt; &lt;new name&gt;:</b> Rename one of your parrots.</li>
+<li><b>how:</b> View the tutorial for this system.</li>
+</ul>
+
+<h3>Reaction game commands (parrot r)</h3>
+<h4>All commands here start with 'parrot r'.</h4>
+<h4>Optional parameters are denoted between angle brackets ({}). For example, {-a[];} would be written in the command as -aVALUE;.</h4>
+<ul>
+<li><b>start {-t[];} {-w[];} :</b> Starts a game. Append -t to set the threshold for the game to end, and -w to set the number of seconds to wait before the game starts.</li>
+<li><b>join:</b> Join an ongoing game.</li>
+<li><b>leave:</b> Leave an ongoing game.</li>
+<li><b>stop:</b> Stop an ongoing game. This command is for Parrot Masters only.</li>
+</ul>
+
+<h2>More about this bot</h2>
+If a bug occurs within the code, a report would be sent to i____7d, in the support server.<br>
+If you detect anything that is wrong with the bot, but no error message is produced, go and tell i____7d (in the support server).<br><br>
+
+Nevertheless, have fun with my bot :)
+
+<h2>Gallery</h2>
+<img src="https://i.imgur.com/J1JoEiQ.png" height="200px" title="source: imgur.com" /><br>
+<img src="https://i.imgur.com/kfe7YoR.png" height="200px" title="source: imgur.com" /><br>
+<img src="https://i.imgur.com/kFPvfhi.png" height="200px" title="source: imgur.com" /><br>
+<img src="https://i.imgur.com/cL5tkd3.png" height="200px" title="source: imgur.com" /><br>
+<img src="https://i.imgur.com/AxAQWUY.png" height="200px" title="source: imgur.com" /><br>

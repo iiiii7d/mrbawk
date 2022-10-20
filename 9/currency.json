@@ -1,0 +1,1653 @@
+{
+    "644052617500164097": {
+        "balance": 126701.4,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            },
+            {
+                "id": 1,
+                "inside": null,
+                "attractsleft": 0
+            },
+            {
+                "id": 2,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [
+            {
+                "name": "Parrot #0",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #1",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #10",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #1042",
+                "breed": "Lorikeet"
+            },
+            {
+                "name": "Parrot #1046",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #1049",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #11",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #1130",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #12",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #1213",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #13",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #1327",
+                "breed": "Parakeet"
+            },
+            {
+                "name": "Parrot #1350",
+                "breed": "Macaw"
+            },
+            {
+                "name": "Parrot #1354",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #1397",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #14",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #15",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #16",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #1660",
+                "breed": "Amazonian Parrot"
+            },
+            {
+                "name": "Parrot #1670",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #168",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #17",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #170",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #18",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #1865",
+                "breed": "Parakeet"
+            },
+            {
+                "name": "Parrot #1876",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #1896",
+                "breed": "Grey Parrot"
+            },
+            {
+                "name": "Parrot #19",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #1927",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #1930",
+                "breed": "Parakeet"
+            },
+            {
+                "name": "Parrot #2",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #20",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #2053",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #21",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #2215",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #2256",
+                "breed": "Lorikeet"
+            },
+            {
+                "name": "Parrot #2314",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #2393",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #2459",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #2513",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #2672",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #2727",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #2741",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #275",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #2758",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #28",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #2866",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #2912",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #2932",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #3",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #3174",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #3181",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #3282",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #329",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #3291",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #335",
+                "breed": "Eclectus"
+            },
+            {
+                "name": "Parrot #3366",
+                "breed": "Amazonian Parrot"
+            },
+            {
+                "name": "Parrot #3406",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #3549",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #3562",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #3575",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #3674",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #3690",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #3807",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #3884",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #3925",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #3928",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #3960",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #3976",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #3992",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #4",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #4044",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #4172",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #4209",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #4256",
+                "breed": "Parakeet"
+            },
+            {
+                "name": "Parrot #4288",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #438",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #4428",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #4453",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #452",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #4596",
+                "breed": "Amazonian Parrot"
+            },
+            {
+                "name": "Parrot #4654",
+                "breed": "Lorikeet"
+            },
+            {
+                "name": "Parrot #4696",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #4754",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #4976",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #5",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #5074",
+                "breed": "Macaw"
+            },
+            {
+                "name": "Parrot #5084",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #5109",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #5268",
+                "breed": "Parakeet"
+            },
+            {
+                "name": "Parrot #5299",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #532",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #5396",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #5417",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #5522",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #5522",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #5527",
+                "breed": "Grey Parrot"
+            },
+            {
+                "name": "Parrot #5644",
+                "breed": "Lorikeet"
+            },
+            {
+                "name": "Parrot #5657",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #5675",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #5731",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #5871",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #6",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #6146",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #6228",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #624",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #6243",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #6271",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #6298",
+                "breed": "Parakeet"
+            },
+            {
+                "name": "Parrot #653",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #6691",
+                "breed": "Parakeet"
+            },
+            {
+                "name": "Parrot #6706",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #6759",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #6762",
+                "breed": "Grey Parrot"
+            },
+            {
+                "name": "Parrot #6765",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #6841",
+                "breed": "Parakeet"
+            },
+            {
+                "name": "Parrot #6896",
+                "breed": "Grey Parrot"
+            },
+            {
+                "name": "Parrot #6925",
+                "breed": "Grey Parrot"
+            },
+            {
+                "name": "Parrot #6965",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #7",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #7029",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #7051",
+                "breed": "Amazonian Parrot"
+            },
+            {
+                "name": "Parrot #7052",
+                "breed": "Parakeet"
+            },
+            {
+                "name": "Parrot #7077",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #713",
+                "breed": "Parakeet"
+            },
+            {
+                "name": "Parrot #7161",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #7349",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #7410",
+                "breed": "Amazonian Parrot"
+            },
+            {
+                "name": "Parrot #772",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #7739",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #7843",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #7848",
+                "breed": "Grey Parrot"
+            },
+            {
+                "name": "Parrot #7856",
+                "breed": "Macaw"
+            },
+            {
+                "name": "Parrot #7864",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #7884",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #7914",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #7949",
+                "breed": "Lorikeet"
+            },
+            {
+                "name": "Parrot #8",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #808",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #8166",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #8171",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #8194",
+                "breed": "Lorikeet"
+            },
+            {
+                "name": "Parrot #8334",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #8455",
+                "breed": "Parakeet"
+            },
+            {
+                "name": "Parrot #8468",
+                "breed": "Grey Parrot"
+            },
+            {
+                "name": "Parrot #8470",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #849",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #857",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #8601",
+                "breed": "Grey Parrot"
+            },
+            {
+                "name": "Parrot #8763",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #8832",
+                "breed": "Grey Parrot"
+            },
+            {
+                "name": "Parrot #8923",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #8950",
+                "breed": "Amazonian Parrot"
+            },
+            {
+                "name": "Parrot #8965",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #8986",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #9",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #9150",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #9172",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #920",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #9287",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #9294",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #9311",
+                "breed": "Grey Parrot"
+            },
+            {
+                "name": "Parrot #9313",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #9362",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #9375",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #9427",
+                "breed": "Amazonian Parrot"
+            },
+            {
+                "name": "Parrot #9543",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #9656",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #9691",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #975",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #9941",
+                "breed": "Macaw"
+            },
+            {
+                "name": "Parrot #9954",
+                "breed": "Parakeet"
+            }
+        ],
+        "lastdaily": 1587433598439,
+        "attractsleft": 0,
+        "inventory": [],
+        "xp": 50,
+        "level": 0,
+        "notifs": [],
+        "ach": [
+            3,
+            0
+        ]
+    },
+    "695070338865823835": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "480200673519206411": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "628847128093130754": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "509309446812336129": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "342617518852145152": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "289609370218528768": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "204538579437879297": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "630216284914581526": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "584986330212335626": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "479172466661654528": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "275830234262142978": {
+        "balance": 100.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 1587273232399,
+        "attractsleft": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "678555907453485066": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "629856627117522954": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "295464665419350024": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "attractsleft": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "652665514190962698": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "222713854059216908": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "540525328263806996": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "591118230945529866": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "583195342556889091": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "263769898168090624": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "378902975483084830": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "527494291719847956": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "614956017767284764": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "535512352838385674": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "536274546748293140": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "565654088851783680": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "620229764996923402": {
+        "balance": 28210.1,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            },
+            {
+                "id": 1,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [
+            {
+                "name": "Parrot #1078",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #1084",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #1101",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #134",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #1446",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #1661",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #1719",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #18",
+                "breed": "Macaw"
+            },
+            {
+                "name": "Parrot #1989",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #2025",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #2039",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #2113",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #2246",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #2259",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #2306",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #2345",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #2366",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #2410",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #2680",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #2731",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #2795",
+                "breed": "Parakeet"
+            },
+            {
+                "name": "Parrot #2884",
+                "breed": "Grey Parrot"
+            },
+            {
+                "name": "Parrot #3052",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #3405",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #3453",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #3505",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #353",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #3553",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #3601",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #3725",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #3774",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #386",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #4135",
+                "breed": "Grey Parrot"
+            },
+            {
+                "name": "Parrot #4343",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #4438",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #4618",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #4723",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #4953",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #4978",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #5014",
+                "breed": "Amazonian Parrot"
+            },
+            {
+                "name": "Parrot #5110",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #5119",
+                "breed": "Amazonian Parrot"
+            },
+            {
+                "name": "Parrot #5186",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #5344",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #536",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #5416",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #5464",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #5510",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #5697",
+                "breed": "Amazonian Parrot"
+            },
+            {
+                "name": "Parrot #5765",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #5875",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #5977",
+                "breed": "Macaw"
+            },
+            {
+                "name": "Parrot #6080",
+                "breed": "Cockatoo"
+            },
+            {
+                "name": "Parrot #6273",
+                "breed": "Grey Parrot"
+            },
+            {
+                "name": "Parrot #6292",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #6446",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #6574",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #660",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #683",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #6854",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #7201",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #7396",
+                "breed": "Parakeet"
+            },
+            {
+                "name": "Parrot #7460",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #7509",
+                "breed": "Parakeet"
+            },
+            {
+                "name": "Parrot #7757",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #7836",
+                "breed": "Parakeet"
+            },
+            {
+                "name": "Parrot #7989",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #8233",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #8304",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #8339",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #8467",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #8570",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #8898",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #9135",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #925",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #9450",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #9478",
+                "breed": "Grey Parrot"
+            },
+            {
+                "name": "Parrot #9572",
+                "breed": "Lovebird"
+            },
+            {
+                "name": "Parrot #9832",
+                "breed": "Cockatiel"
+            },
+            {
+                "name": "Parrot #9860",
+                "breed": "Lovebird"
+            }
+        ],
+        "inventory": [],
+        "lastdaily": 1587598515966,
+        "xp": 50,
+        "level": 0,
+        "notifs": [
+            {
+                "breed": "Lovebird",
+                "qty": 13
+            },
+            {
+                "breed": "Cockatiel",
+                "qty": 6
+            },
+            {
+                "breed": "Parakeet",
+                "qty": 1
+            },
+            {
+                "breed": "Macaw",
+                "qty": 1
+            },
+            {
+                "breed": "Cockatoo",
+                "qty": 2
+            },
+            {
+                "breed": "Grey Parrot",
+                "qty": 2
+            }
+        ],
+        "ach": [
+            0,
+            3
+        ]
+    },
+    "409621988148117504": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": [
+            0
+        ]
+    },
+    "589119819677433861": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "440099490364391435": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "389545308276916228": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "292718510227062784": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    },
+    "459515843370287135": {
+        "balance": 50.0,
+        "bowls": [
+            {
+                "id": 0,
+                "inside": null,
+                "attractsleft": 0
+            }
+        ],
+        "parrots": [],
+        "inventory": [],
+        "lastdaily": 0,
+        "xp": 0,
+        "level": 0,
+        "notifs": [],
+        "ach": []
+    }
+}

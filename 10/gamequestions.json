@@ -1,0 +1,70 @@
+{
+    "questions": [
+        {
+            "question": ":parrot::video_game: **Quick, type anything!**",
+            "answer": [""],
+            "time": 5,
+            "chance": 0.2
+        },
+        {
+            "question": ":parrot::video_game: **Type this: `bawk`**",
+            "answer": ["bawk"],
+            "time": 5,
+            "chance": 0.05
+        },
+        {
+            "question": ":parrot::video_game: **Type this: `mr bawk is yes`**",
+            "answer": ["mr bawk is yes"],
+            "time": 10,
+            "chance": 0.05
+        },
+        {
+            "question": ":parrot::video_game: **Type the alphabet!**",
+            "answer": ["abcdefghijklmnopqrstuvwxyz"],
+            "time": 15,
+            "chance": 0.05
+        },
+        {
+            "question": ":parrot::video_game: **Type the alphabet, with spaces in between!**",
+            "answer": ["a b c d e f g h i j k l m n o p q r s t u v w x y z"],
+            "time": 25,
+            "chance": 0.05
+        },
+        {
+            "question": ":parrot::video_game: **What discord module do I run on?**",
+            "answer": ["discord.py", "discordpy"],
+            "time": 10,
+            "chance": 0.1
+        },
+        {
+            "question": ":parrot::video_game: **What is this colour & shape: {EMOJI}? (Respond in <colour> <shape>)**",
+            "answer": ["{COLSHAPEANS}"],
+            "time": 10,
+            "chance": 0.15
+        },
+        {
+            "question": ":parrot::video_game: **What is my sister bot?**",
+            "answer": ["treble"],
+            "time": 5,
+            "chance": 0.05
+        },
+        {
+            "question": ":parrot::video_game: **Complete the sentence: No _! (Hint: Uno)**",
+            "answer": ["u", "you"],
+            "time": 5,
+            "chance": 0.1
+        },
+        {
+            "question": ":parrot::video_game: **Complete the sentence: Its over ______!**",
+            "answer": ["9000", "nine thousand", "9 thousand"],
+            "time": 7,
+            "chance": 0.1
+        },
+        {
+            "question": ":parrot::video_game: **Complete the sentence: That's a lotta _______**",
+            "answer": ["damage"],
+            "time": 5,
+            "chance": 0.1
+        }
+    ]
+}

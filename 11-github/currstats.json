@@ -1,0 +1,277 @@
+{
+    "parrots": [
+        {
+            "name": "Cockatiel",
+            "tpm": 0.1,
+            "chance": 0.30
+        },
+        {
+            "name": "Lovebird",
+            "tpm": 0.15,
+            "chance": 0.30
+        },
+        {
+            "name": "Cockatoo",
+            "tpm": 0.3,
+            "chance": 0.10
+        },
+        {
+            "name": "Parakeet",
+            "tpm": 0.5,
+            "chance": 0.10
+        },
+        {
+            "name": "Lorikeet",
+            "tpm": 0.7,
+            "chance": 0.05
+        },
+        {
+            "name": "Grey Parrot",
+            "tpm": 1.0,
+            "chance": 0.05
+        },
+        {
+            "name": "Amazonian Parrot",
+            "tpm": 1.5,
+            "chance": 0.05
+        },
+        {
+            "name": "Macaw",
+            "tpm": 2.0,
+            "chance": 0.025
+        },
+        {
+            "name": "Eclectus",
+            "tpm": 3.0,
+            "chance": 0.015
+        },
+        {
+            "name": "Poicephalus",
+            "tpm": 3.0,
+            "chance": 0.005
+        },
+        {
+            "name": "Conure",
+            "tpm": 5.0,
+            "chance": 0.004
+        },
+        {
+            "name": "Caique",
+            "tpm": 10.0,
+            "chance": 0.001
+        }
+    ],
+    "shop": [
+        {
+            "name": "Birdseed",
+            "lore": "The ordinary, trusty seed for birds",
+            "type": "food",
+            "cost": 10,
+            "cpm": 0.1,
+            "pax": 3
+        },
+        {
+            "name": "Rice",
+            "lore": "Good for both humans and parrots too, according to my research",
+            "type": "food",
+            "cost": 25,
+            "cpm": 0.1,
+            "pax": 3
+        },
+        {
+            "name": "Berries",
+            "lore": "Some berries. Juicy.",
+            "type": "food",
+            "cost": 75,
+            "cpm": 0.2,
+            "pax": 5
+        },
+        {
+            "name": "Almonds",
+            "lore": "That's nuts.",
+            "type": "food",
+            "cost": 100,
+            "cpm": 0.2,
+            "pax": 10
+        },
+        {
+            "name": "Small Carrot",
+            "lore": "'^'",
+            "type": "food",
+            "cost": 100,
+            "cpm": 0.4,
+            "pax": 5
+        },
+        {
+            "name": "Cherries",
+            "lore": "Exclusing the seeds.",
+            "type": "food",
+            "cost": 150,
+            "cpm": 0.3,
+            "pax": 15
+        },
+        {
+            "name": "Banana Slices",
+            "lore": "Fresh and organic.",
+            "type": "food",
+            "cost": 175,
+            "cpm": 0.4,
+            "pax": 15
+        },
+        {
+            "name": "Cucumber",
+            "lore": "I ran out of lores",
+            "type": "food",
+            "cost": 225,
+            "cpm": 0.5,
+            "pax": 20
+        },
+        {
+            "name": "Cucumber",
+            "lore": "I ran out of lores",
+            "type": "food",
+            "cost": 225,
+            "cpm": 0.5,
+            "pax": 20
+        },
+        {
+            "name": "Cinnamon",
+            "lore": "Healthy as ever.",
+            "type": "food",
+            "cost": 275,
+            "cpm": 0.5,
+            "pax": 22
+        },
+        {
+            "name": "Coconut",
+            "lore": "I ran out of lores",
+            "type": "food",
+            "cost": 300,
+            "cpm": 0.5,
+            "pax": 25
+        },
+        {
+            "name": "Broccoli",
+            "lore": "Not cauliflower",
+            "type": "food",
+            "cost": 350,
+            "cpm": 0.6,
+            "pax": 27
+        },
+        {
+            "name": "Cauliflower",
+            "lore": "Not broccoli",
+            "type": "food",
+            "cost": 350,
+            "cpm": 0.6,
+            "pax": 27
+        },
+        {
+            "name": "Pineapple",
+            "lore": "On pizza. Just kidding.",
+            "type": "food",
+            "cost": 425,
+            "cpm": 0.6,
+            "pax": 30
+        },
+        {
+            "name": "Melon",
+            "lore": "I ran out of lores",
+            "type": "food",
+            "cost": 550,
+            "cpm": 0.7,
+            "pax": 27
+        },
+        {
+            "name": "Pomegranate",
+            "lore": "Not granite.",
+            "type": "food",
+            "cost": 600,
+            "cpm": 0.8,
+            "pax": 30
+        },
+        {
+            "name": "Bits of Flower",
+            "lore": "I ran out of lores",
+            "type": "food",
+            "cost": 675,
+            "cpm": 0.8,
+            "pax": 35
+        },
+        {
+            "name": "Beans",
+            "lore": "B e a n s",
+            "type": "food",
+            "cost": 750,
+            "cpm": 0.9,
+            "pax": 40
+        },
+        {
+            "name": "Quinoa",
+            "lore": "I ran out of lores",
+            "type": "food",
+            "cost": 850,
+            "cpm": 0.9,
+            "pax": 45
+        },
+        {
+            "name": "Flax Seeds",
+            "lore": "I ran out of lores",
+            "type": "food",
+            "cost": 1000,
+            "cpm": 1.0,
+            "pax": 50
+        },
+        {
+            "name": "Chia Seeds",
+            "lore": "I ran out of lores",
+            "type": "food",
+            "cost": 1000,
+            "cpm": 1.0,
+            "pax": 50
+        },
+        {
+            "name": "Bowl",
+            "lore": "If one isn't enough. Double power!",
+            "type": "util",
+            "cost": 4000
+        }
+    ],
+    "ach": [
+        {
+            "id": 0,
+            "info": "Find a bug (that was catched by the code)",
+            "multiplier": 0.05
+        },
+        {
+            "id": 1,
+            "info": "Wait more than 2 hours for a messup to finish",
+            "multiplier": 0.05
+        },
+        {
+            "id": 2,
+            "info": "Get 50 parrots",
+            "multiplier": 0.05
+        },
+        {
+            "id": 3,
+            "info": "Attract a Caique",
+            "multiplier": 0.2
+        },
+        {
+            "id": 4,
+            "info": "Get two bowls",
+            "multiplier": 0.1
+        },
+        {
+            "id": 5,
+            "info": "Win a reaction test game with at least 3 people",
+            "multiplier": 0.05
+        },
+        {
+            "id": 6,
+            "info": "Play 10 reaction test games",
+            "multiplier": 0.1
+        }
+    ]
+}

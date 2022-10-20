@@ -1,0 +1,107 @@
+{
+    "661200550200868874": {
+        "deletelog": "general",
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "nvchannel": "general",
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ]
+    },
+    "674430349266386944": {
+        "deletelog": "parrot-mutedmsgs",
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "nvchannel": "general",
+        "dsmba": false
+    },
+    "677954661545803808": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "nvchannel": "bot_hangout",
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ]
+    },
+    "650254280317468683": {
+        "deletelog": "admins",
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "nvchannel": "announcements",
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ]
+    },
+    "589954422134669325": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "nvchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ]
+    },
+    "289611133302865930": {
+        "deletelog": null,
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "nvchannel": null,
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ]
+    },
+    "695112012346163232": {
+        "deletelog": "parrot-mutedmsgs",
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "nvchannel": "announcements",
+        "dsmba": true,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk ",
+            "midget"
+        ]
+    },
+    "695114842947715122": {
+        "deletelog": "server_logs",
+        "swearalarm": ":parrot: **BAAAAAAAAAAWWWWWWKKKKKKK BAAAAAWWWWWWWKKKKKKK ALERRRRRRT! {author} SWORE! BAAAAAAAAAWWWWWKKKKKK BAAAAAAAAAAAAAAAAAWWWWWWWWWWWWWKKKKKKKKKKKKK!!!!!!!!!! :rotating_light: :rotating_light: :rotating_light:**",
+        "nvchannel": "bot-commands",
+        "dsmba": false,
+        "addswearwords": [
+            " no u ",
+            " no you ",
+            " ok boomer ",
+            " swear word ",
+            " stfu ",
+            " fk "
+        ]
+    }
+}

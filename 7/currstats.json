@@ -1,0 +1,25 @@
+{
+    "parrots": [
+        {
+            "name": "cockatiel",
+            "tpm": 1,
+            "chance": 1
+        }
+    ],
+    "shop": [
+        {
+            "name": "Birdseed",
+            "lore": "The ordinary, trusty seed for birds",
+            "cost": 10,
+            "cpm": 0.1,
+            "pax": 3
+        },
+        {
+            "name": "Small Fruit",
+            "lore": "Some small fruits. Juicy.",
+            "cost": 50,
+            "cpm": 0.2,
+            "pax": 5
+        }
+    ]
+}

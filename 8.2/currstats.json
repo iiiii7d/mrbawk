@@ -1,0 +1,51 @@
+{
+    "parrots": [
+        {
+            "name": "cockatiel",
+            "tpm": 0.2,
+            "chance": 0.75
+        },
+        {
+            "name": "scarlet macaw",
+            "tpm": 0.3,
+            "chance": 0.25
+        }
+    ],
+    "shop": [
+        {
+            "name": "Birdseed",
+            "lore": "The ordinary, trusty seed for birds",
+            "cost": 10,
+            "cpm": 0.1,
+            "pax": 3
+        },
+        {
+            "name": "Rice",
+            "lore": "Good for both humans and parrots too, according to my research",
+            "cost": 20,
+            "cpm": 0.1,
+            "pax": 3
+        },
+        {
+            "name": "Berries",
+            "lore": "Some berries. Juicy.",
+            "cost": 50,
+            "cpm": 0.2,
+            "pax": 5
+        },
+        {
+            "name": "Almonds",
+            "lore": "That's nuts.",
+            "cost": 80,
+            "cpm": 0.2,
+            "pax": 10
+        },
+        {
+            "name": "Small Carrot",
+            "lore": "'^'",
+            "cost": 80,
+            "cpm": 0.3,
+            "pax": 5
+        }
+    ]
+}
