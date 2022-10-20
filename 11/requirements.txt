@@ -1,0 +1,12 @@
+discord
+requests
+asyncio
+numpy
+psutil
+giphy_client
+dblpy
+pymongo
+better_profanity
+flask
+dnspython
+Pillow
